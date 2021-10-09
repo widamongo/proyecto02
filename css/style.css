@@ -106,11 +106,36 @@ main{
     justify-content: center;
 }
 
-main .container div h3{
+main .container{
+    width: 80%;
+}
+
+main .img-container{
+    display: flex;
+    justify-content: center;
+}
+
+main .container div h4{
     width: 100%;
     display: flex;
     justify-content: center;
     color: orangered;
+}
+
+main .container div p{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main .container div img{
+    width: 50%;
+    align-items: center;
+    border-style: groove;
+    border-color: orangered;
+    border-radius: 100px;
 }
 
 
