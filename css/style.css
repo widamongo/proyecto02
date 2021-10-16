@@ -120,6 +120,7 @@ main .container div h4{
     display: flex;
     justify-content: center;
     color: orangered;
+    font-size: 36px;
 }
 
 main .container div p{
@@ -128,6 +129,7 @@ main .container div p{
     justify-content: center;
     margin-left: 10px;
     margin-right: 10px;
+    font-size: xx-large;
 }
 
 main .container div img{

@@ -100,6 +100,25 @@ header .container .col3 div:nth-child(2) a svg{
 
 /*----------------------- main -----------------------*/
 
+main{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    margin: 2%;
+    border: orangered;
+}
+
+main .container h2{
+    font-size: 48px;
+    color: orangered;
+    text-align: center;
+}
+
+main .container p{
+    align-content: center;
+    font-size: larger;
+}
+
 /*-------------------------- footer -----------------*/
 
 footer{
